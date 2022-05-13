@@ -3,17 +3,17 @@ Fix Audio Port Andronix
 
 Follow this instruction ...
 
-1.Install pulseaudio on thermux
+1.Install pulseaudio on Termux
 
     pkg install pulseaudio
   
-2. Install nano on thermux
+2. Install nano on Termux
 
     pkg install nano
   
 3. go pulse folder
 
-    cd /data/data/com.thermux/files/usr/etc/pulse
+    cd /data/data/com.termux/files/usr/etc/pulse
 
 4. edit daemon.conf with nano
 
